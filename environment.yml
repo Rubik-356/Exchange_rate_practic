@@ -1,0 +1,10 @@
+datalore-env-format-version: "0.2"
+datalore-package-manager: "pip"
+datalore-base-env: "default_3_11"
+dependencies:
+  - requests
+  - pymongo
+  - pandas
+  - sqlalchemy
+  - psycopg2-binary
+  - python-dotenv
